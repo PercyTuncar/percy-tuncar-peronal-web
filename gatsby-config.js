@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `Percy Tuncar`,
+    description: `Desarrollador diseñador y fotografo.`,
+    author: `Percy Tuncar`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -43,8 +43,8 @@ module.exports = {
         name: `gatsby-personal-website-starter`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#ed64a6`,
-        theme_color: `#ed64a6`,
+        background_color: `#2CEBBA`,
+        theme_color: `#2CEBBA`,
         display: `minimal-ui`,
         icon: `src/assets/images/gatsby-icon.png`
       }

@@ -1,8 +1,12 @@
 ---
 category: 'hero section'
 title: 'Frontend Developer'
-subtitle: 'Percy Tuncar'
-content: 'Antes que nada te diré que tengo fama de ser una persona franca y directa (hasta un poco crudo, a veces). Mi historia es una historia llena de fracasos. Sin embargo, a pesar de los numerosos fracasos por los que he pasado a lo largo de mi vida, todos me han servido para aprender, hacerme más fuerte y poder seguir caminando hasta conseguir mi libertad. ¿Quieres conocerme un poco más? Puedes seguirme en mis redes sociales 🤗 Un abrazo. Percy T.'
+subtitle: 'Un poco sobre de mi'
+content: 'Antes que nada te diré que tengo fama de ser una persona franca y directa (hasta un poco crudo, a veces). Mi historia es una historia llena de fracasos. Sin embargo, a pesar de los numerosos fracasos por los que he pasado a lo largo de mi vida, todos me han servido para aprender, hacerme más fuerte y poder seguir caminando hasta conseguir mi libertad. ¿Quieres conocerme un poco más? Puedes seguirme en mis redes sociales.
+
+
+🤗 Un abrazo.
+Percy T.'
 linkTo: '/contact/'
 linkText: '¡Hola 👋!'
 ---
