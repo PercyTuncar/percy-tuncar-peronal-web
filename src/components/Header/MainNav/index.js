@@ -8,7 +8,7 @@ const mainNavItems = [
     slug: '/'
   },
   {
-    title: 'Resume',
+    title: 'Currículum',
     slug: '/resume/'
   },
   {
@@ -16,7 +16,7 @@ const mainNavItems = [
     slug: '/blog/'
   },
   {
-    title: 'Contact Me',
+    title: 'Contacto',
     slug: '/contact/'
   }
 ];
